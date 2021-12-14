@@ -131,7 +131,7 @@ class _HomeState extends State<Home> {
         children: <Widget>[
           HomePage(),
           Center(
-            child: Text("Analysis",style: TextStyle(
+            child: Text("Wallet",style: TextStyle(
               fontSize: 35
             ),),
           ),
@@ -141,12 +141,12 @@ class _HomeState extends State<Home> {
             ),),
           ),
           Center(
-            child: Text("Balance",style: TextStyle(
+            child: Text("Statistics",style: TextStyle(
               fontSize: 35
             ),),
           ),
            Center(
-            child: Text("Setting",style: TextStyle(
+            child: Text("Account",style: TextStyle(
               fontSize: 35
             ),),
           )
