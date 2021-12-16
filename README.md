@@ -12,8 +12,9 @@
 
 => To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
 
-<img width="600" alt="Screen Shot 2021-12-15 at 9 01 02 PM" src="https://user-images.githubusercontent.com/86506519/146204685-da45b2cc-3215-4f27-a792-de3f458951a8.png">
-<img width="603" alt="Screen Shot 2021-12-15 at 9 01 15 PM" src="https://user-images.githubusercontent.com/86506519/146204714-280c3447-79ab-4d06-bc9c-1d71650e61c0.png">
-<img width="600" alt="Screen Shot 2021-12-15 at 9 01 32 PM" src="https://user-images.githubusercontent.com/86506519/146204718-12716176-11df-4475-bda8-27125d862470.png">
-<img width="597" alt="Screen Shot 2021-12-15 at 9 01 45 PM" src="https://user-images.githubusercontent.com/86506519/146204723-33b5c558-b55b-41e6-80d1-5bbd09be251c.png">
-<img width="600" alt="Screen Shot 2021-12-15 at 9 02 00 PM" src="https://user-images.githubusercontent.com/86506519/146204727-2f664eaa-a58a-44be-8287-dee064f52752.png">
+
+<img width="600" alt="Screen Shot 2021-12-16 at 5 04 43 PM" src="https://user-images.githubusercontent.com/86506519/146351486-0f00b798-bf75-41b8-9838-3391349f3813.png">
+<img width="600" alt="Screen Shot 2021-12-16 at 5 05 07 PM" src="https://user-images.githubusercontent.com/86506519/146351506-c0b9a591-0e8d-42f4-9497-5dc64ef86d7d.png">
+<img width="600" alt="Screen Shot 2021-12-16 at 5 05 24 PM" src="https://user-images.githubusercontent.com/86506519/146351513-a6e0cf9d-da40-48cb-aa46-99a16aa07952.png">
+<img width="600" alt="Screen Shot 2021-12-16 at 5 05 45 PM" src="https://user-images.githubusercontent.com/86506519/146351519-d63b04db-4c19-459c-9123-d889a5ffa9c5.png">
+<img width="600" alt="Screen Shot 2021-12-16 at 5 06 17 PM" src="https://user-images.githubusercontent.com/86506519/146351530-3a1f1110-f592-4159-9a28-dc7df5980731.png">
