@@ -1,6 +1,6 @@
 # Mobile Banking App - Flutter
 
-- Preview video: https://www.youtube.com/watch?v=CSj-c8cegkY
+- Preview video: https://youtu.be/XM9suG710hI
 - [My Twitter](https://twitter.com/sangvaleap)
 
 - [My Patreon](https://www.patreon.com/sangvaleap)
