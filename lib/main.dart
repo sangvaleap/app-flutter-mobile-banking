@@ -1,6 +1,5 @@
-
 import 'package:flutter/material.dart';
-import 'pages/home.dart';
+import 'pages/root_app.dart';
 import 'theme/colors.dart';
 
 void main() {
@@ -13,12 +12,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'Mobile Banking App',
       theme: ThemeData(
-        primaryColor: primary,
+        primaryColor: AppColor.primary,
         brightness: Brightness.light,
       ),
-      home: Home(),
+      home: const RootApp(),
     );
   }
 }
