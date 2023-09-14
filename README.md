@@ -1,17 +1,13 @@
 # Mobile Banking App - Flutter
 
 - Preview video: https://youtu.be/XM9suG710hI
+- Support my work: https://www.patreon.com/sangvaleap
+  
 - [My Twitter](https://twitter.com/sangvaleap)
-
 - [My Patreon](https://www.patreon.com/sangvaleap)
-- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
 - [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
 
-- My Email: sangvaleap.vanny@gmail.com
-- UI/UX source: https://dribbble.com/shots/16503460-Finance-Mobile-App
-
-=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
-
+- UI/UX : https://dribbble.com/shots/16503460-Finance-Mobile-App
 
 <img width="600" alt="Screen Shot 2021-12-16 at 5 04 43 PM" src="https://user-images.githubusercontent.com/86506519/146351486-0f00b798-bf75-41b8-9838-3391349f3813.png">
 <img width="600" alt="Screen Shot 2021-12-16 at 5 05 07 PM" src="https://user-images.githubusercontent.com/86506519/146351506-c0b9a591-0e8d-42f4-9497-5dc64ef86d7d.png">
